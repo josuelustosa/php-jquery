@@ -1,0 +1,21 @@
+body {
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    width: 75%;
+    margin: auto;
+}
+
+.titleAccordion {
+    height: auto;
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #005bca;
+    border-radius: 10px;
+    padding-left: 10px;
+    line-height: 50px;
+}
+
+.textAccordion {
+    height: auto;
+    padding-left: 10px;
+}
